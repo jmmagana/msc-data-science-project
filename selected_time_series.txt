@@ -1,0 +1,12 @@
+ts_name
+Annual snowfall in Buffalo, 1910-1972.
+Annual Flows, Colorado River Lees Ferry. 1911 - 1972
+Monthly unit sales, Winnebago Industries, Nov. 1966 - Feb. 1972
+Monthly New York City births: unknown scale. Jan 1946 - Dec 1959
+Monthly riverflow in cms, Saugeen River, Walkerton, 1915-1976
+Sales of new one-family houses, USA, from Jan 1987 through Nov 1995
+Wheat prices, 1264-1996, in constant 1996 pounds
+Weekly market share data of Crest toothpaste from Junuary 1958 to April 1963
+Daily maximum temperatures in Melbourne, Australia, 1981-1990
+Real daily wages in pounds, England. 1260 - 1994
+U.S. annual coffee consumption. 1910 – 1970.
